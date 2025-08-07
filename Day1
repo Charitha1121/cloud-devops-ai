@@ -1,0 +1,23 @@
+# What is cloud computing ?
+- It is the on-demand delivery of IT resources over the internet with pay-as-you-go-pricing.
+- Instead of buying,owning and maintaining of physical data centers and servers,you can access technology services such as computing power,storage and databases on an as-need basis.
+# Who is using cloud computing?
+- Organizations of every type,size and industries using the cloud for a wide variety of use cases such as data backup,disaster recovery,email,virtual desktop etc.
+# Benefits of cloud computing
+1)Agility
+- It gives easy access.
+-You can deploy technology services in a matter of minutes.
+2)Elasticity
+-You can automatically adjust your computing sources up and down based on your actual needs.
+3)cost savings
+-The cloud allows you to trade fixed expenses.
+-It ensures you only pay for what you use.
+#Types of cloud computing
+-There are 3 types of cloud computing
+1)Infrastructure as a Service(IaaS) Ex:AWS EC2
+2)Platform as a Service(PaaS) Ex:Google App Engine
+3)Software as a Service (SaaS) Ex:Gmail,Dropbox
+#List of 3 Cloud providers
+-Amazon web services (AWS)
+- Microsoft Azure
+-Google cloud platform (GCP)
