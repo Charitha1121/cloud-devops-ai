@@ -1,0 +1,19 @@
+# Day 2: Cloud Models (IaaS, PaaS, SaaS) + IBM Cloud Overview
+
+## Cloud Service Models
+
+- **IaaS (Infrastructure as a Service):**  
+  Renting virtual hardware like servers and storage.  
+  *Example:* AWS EC2, Google Compute Engine.
+
+- **PaaS (Platform as a Service):**  
+  Renting platforms to build and run your apps without managing hardware.  
+  *Example:* AWS Elastic Beanstalk, Google App Engine.
+
+- **SaaS (Software as a Service):**  
+  Using ready-made software hosted on the cloud.  
+  *Example:* Gmail, Dropbox, Microsoft 365.
+
+## IBM Cloud Overview
+
+IBM Cloud offers cloud services similar to AWS and GCP, focusing on hybrid cloud and AI tools.
